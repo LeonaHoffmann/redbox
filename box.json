@@ -4,7 +4,7 @@
 	"name": "Box",
 	"description": "A box",
 	"newInstancePrefix": "Box",
-	"icon": "http://localhost:80/icon.png",
+	"icon": "https://raw.githubusercontent.com/LeonaHoffmann/redbox/master/icon.png",
 	"vendor": "Sample",
 	"eula": "",
 	"license": "",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-sample-box",
-			"url": "http://localhost:80/box.js",
+			"url": "https://raw.githubusercontent.com/LeonaHoffmann/redbox/master/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-sample-box-styling",
-			"url": "http://localhost:80/box_styling.js",
+			"url": "https://raw.githubusercontent.com/LeonaHoffmann/redbox/master/box_styling.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-sample-box-builder",
-			"url": "http://localhost:80/box_builder.js",
+			"url": "https://raw.githubusercontent.com/LeonaHoffmann/redbox/master/box_builder.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
